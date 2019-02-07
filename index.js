@@ -1,5 +1,7 @@
 // write your code below!
-function happyHolidays() { var h = "Happy holidays!"; return h }
+function happyHolidays(){
+  return "Happy holidays!";
+}
 
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
